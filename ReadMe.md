@@ -10,3 +10,6 @@
   - find points along the curve and 'branch'
   - ...
  
+ requirements:
+ sfml v3.1
+
