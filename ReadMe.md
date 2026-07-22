@@ -13,3 +13,7 @@
  requirements:
  sfml v3.1
 
+i compile it with:
+
+cl.exe main.cpp /std:c++17 /EHsc /I"C:\Program Files\SFML\SFML-3.1.0\include" /link /LIBPATH:"C:\Program Files\SFML\SFML-3.1.0\lib" sfml-graphics.lib sfml-window.lib sfml-system.lib /out:main.exe
+
